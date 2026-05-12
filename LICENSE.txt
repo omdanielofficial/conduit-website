@@ -1,0 +1,29 @@
+COPYRIGHT WARNING
+
+Copyright © 2026 Intranex Limited. All Rights Reserved.
+
+This website, including but not limited to its source code, design, layout, styling, assets, branding, graphics, text, configuration, and implementation, contains licensed and proprietary material.
+
+Unauthorised scraping, copying, cloning, redistribution, reproduction, reverse engineering, or reuse of any part of this website is strictly prohibited.
+
+Any attempt to:
+
+* Copy or recreate this website or its functionality,
+* Extract source code, assets, or design elements,
+* Re-upload or redistribute materials from this website,
+* Use modified or unmodified versions for commercial or personal projects,
+
+may constitute a violation of copyright law, intellectual property law, and applicable license agreements.
+
+The underlying theme/framework used on this website is properly licensed to Intranex Limited for authorised use only. That license does not extend to third parties accessing or scraping this site.
+
+By accessing this website, you agree not to misuse, duplicate, or redistribute any materials without prior written permission.
+
+Unauthorised use may result in DMCA takedown requests, hosting abuse reports, account termination requests, legal action, and/or financial claims where applicable.
+
+Authorised domains for use:
+* conduit.host
+* conduithost.com
+* intranex.org
+
+Legal enquiries: legal@intranex.org 
