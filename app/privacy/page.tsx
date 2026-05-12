@@ -89,19 +89,19 @@ export default function PrivacyPolicy() {
                   ))}
                 </div>
 
-                {/* Privacy Commitment */}
+                {/* Agreement Note */}
                 <div className="mt-16 p-5 rounded-lg border border-brand/30 bg-gradient-to-br from-brand/10 to-brand/5">
                   <div className="flex items-start gap-3">
                     <svg className="w-5 h-5 text-brand flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
                     <div>
                       <h3 className="text-sm font-semibold text-white mb-1.5">
-                        Our Privacy Commitment
+                        Agreement Acknowledgment
                       </h3>
                       <p className="text-xs text-white/60 leading-relaxed">
-                        We are committed to protecting your privacy and maintaining the security of your personal information. 
-                        Your trust is important to us, and we will never sell your data to third parties.
+                        By creating an account and using Conduit's services, you acknowledge that you have read, 
+                        understood, and agree to be bound by these Terms of Service.
                       </p>
                     </div>
                   </div>
@@ -110,8 +110,8 @@ export default function PrivacyPolicy() {
                 {/* Contact CTA */}
                 <div className="mt-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 p-5 rounded-lg border border-white/10 bg-white/[0.02]">
                   <div>
-                    <h3 className="text-sm font-semibold text-white mb-0.5">Privacy questions?</h3>
-                    <p className="text-xs text-white/50">Contact our privacy team for assistance</p>
+                    <h3 className="text-sm font-semibold text-white mb-0.5">Have questions?</h3>
+                    <p className="text-xs text-white/50">We strive to respond to all legal enquiries within five business days.</p>
                   </div>
                   <Link
                     href="/contact"
