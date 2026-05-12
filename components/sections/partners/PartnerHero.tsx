@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
 import { partnersConfig } from "@/config/pages/partners";
-import { brandingConfig } from "@/config/branding.exports";
 
 export default function PartnerHero() {
   return (

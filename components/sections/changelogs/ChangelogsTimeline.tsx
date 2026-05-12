@@ -32,7 +32,7 @@ export default function ChangelogsTimeline() {
               {/* Header */}
               <div className="mb-6 flex flex-wrap items-center gap-3">
                 <div className={`rounded-lg border px-3 py-1.5 text-sm font-semibold ${typeStyles[version.type as keyof typeof typeStyles].badge}`}>
-                  v{version.version}
+                  {version.version}
                 </div>
                 <time className="text-sm text-white/40">{version.date}</time>
               </div>

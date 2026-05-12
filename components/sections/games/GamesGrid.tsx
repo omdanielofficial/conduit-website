@@ -4,24 +4,16 @@ import Link from "next/link";
 import Image from "next/image";
 import { getGames, getStartingPrice, type GameConfig } from "@/config/games/index";
 import { gamesPageConfig } from "@/config/pages/games";
-import { ArrowRight, Zap, Shield, Clock, Users } from "lucide-react";
+import { ArrowRight, Zap, Shield, Clock } from "lucide-react";
 import { currencyConfig } from "@/config/shared/currency";
 
-const iconMap = { Zap, Shield, Clock, Users };
 
-const colorClasses = {
-  yellow: "border-yellow-500/20 bg-yellow-500/5 text-yellow-500",
-  green: "border-green-500/20 bg-green-500/5 text-green-500",
-  blue: "border-blue-500/20 bg-blue-500/5 text-blue-500",
-  purple: "border-purple-500/20 bg-purple-500/5 text-purple-500",
-  cyan: "border-cyan-500/20 bg-cyan-500/5 text-cyan-500",
-  orange: "border-orange-500/20 bg-orange-500/5 text-orange-500",
-};
+
 
 export default function GamesGrid() {
   // Automatically load all games from config/games
   const games = getGames();
-  const { requestGame, featuresSection, features } = gamesPageConfig;
+  const { requestGame } = gamesPageConfig;
 
   return (
     <section className="relative w-full py-12 bg-black">
@@ -147,36 +139,7 @@ export default function GamesGrid() {
         </div>
 
         {/* Feature Highlights Section */}
-        <div className="mt-20">
-          <div className="mb-10">
-            <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl mb-3">
-              {featuresSection.title}
-            </h2>
-            <p className="max-w-2xl text-sm text-white/50">
-              {featuresSection.description}
-            </p>
-          </div>
 
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {features.map((feature, index) => {
-              const IconComponent = iconMap[feature.icon as keyof typeof iconMap];
-              return (
-                <div
-                  key={index}
-                  className="group relative overflow-hidden rounded-lg border border-white/10 bg-white/[0.02] p-6 transition-all hover:border-white/20 hover:bg-white/[0.04]"
-                >
-                  <div className={`mb-4 inline-flex h-10 w-10 items-center justify-center rounded-lg border ${colorClasses[feature.color]}`}>
-                    {IconComponent && <IconComponent className="h-5 w-5" />}
-                  </div>
-                  <h3 className="mb-2 text-lg font-semibold text-white">{feature.title}</h3>
-                  <p className="text-sm text-white/60 leading-relaxed">
-                    {feature.description}
-                  </p>
-                </div>
-              );
-            })}
-          </div>
-        </div>
       </div>
     </section>
   );

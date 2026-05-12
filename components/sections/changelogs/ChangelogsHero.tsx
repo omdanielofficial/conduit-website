@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import React from "react";
 import { changelogsConfig } from "@/config/changelogs";
 
 export default function ChangelogsHero() {
@@ -45,19 +44,7 @@ export default function ChangelogsHero() {
           </p>
 
           {/* Stats Row */}
-          <div className="flex flex-wrap items-center gap-x-8 gap-y-4 text-sm">
-            {hero.stats.map((stat, index) => (
-              <React.Fragment key={index}>
-                <div>
-                  <div className="text-2xl font-bold text-white">{stat.value}</div>
-                  <div className="text-xs text-white/50">{stat.label}</div>
-                </div>
-                {index < hero.stats.length - 1 && (
-                  <div className="h-8 w-px bg-white/10" />
-                )}
-              </React.Fragment>
-            ))}
-          </div>
+
         </div>
       </div>
     </section>

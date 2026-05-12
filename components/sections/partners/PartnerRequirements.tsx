@@ -1,4 +1,4 @@
-import { Youtube, Twitch, Globe, Code, MessageCircle, Twitter, CircleQuestionMark } from "lucide-react";
+import { Youtube, Twitch, Globe, Code, MessageCircle, CircleQuestionMark } from "lucide-react";
 import { partnersConfig } from "@/config/pages/partners";
 
 const iconMap = { Youtube, Twitch, Globe, Code, MessageCircle, CircleQuestionMark };

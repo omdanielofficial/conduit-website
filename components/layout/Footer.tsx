@@ -79,13 +79,7 @@ export default function Footer() {
               <p className="text-sm text-white/40">
                 {siteConfig.copyright}
               </p>
-              <div className="flex items-center gap-6 text-sm text-white/40">
-                {footerBottomBar.links.map((link) => (
-                  <Link key={link.name} href={link.href} className="hover:text-white/60 transition-colors cursor-pointer">
-                    {link.name}
-                  </Link>
-                ))}
-              </div>
+
             </div>
             {footerBottomBar.disclaimers.map((disclaimer, index) => (
               <p key={index} className="text-xs text-white/30 text-center">

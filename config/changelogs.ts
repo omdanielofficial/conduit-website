@@ -33,8 +33,8 @@ export const changelogsConfig = {
   // Colors: blue, green, orange, purple, red, cyan
   versions: [
     {
-      version: "2.4.0",
-      date: "January 15, 2026",
+      version: "Game Panel v1.0 Release",
+      date: "15th May 2026",
       type: "major",
       changes: [
         {
@@ -42,10 +42,9 @@ export const changelogsConfig = {
           icon: "Sparkles", 
           color: "blue",
           items: [
-            "Introduced real-time server analytics dashboard with CPU, RAM, and network monitoring",
-            "Added automated DDoS protection for all game servers",
-            "Launched custom domain support for game servers",
-            "New one-click modpack installer for Minecraft servers",
+            "Added a variety of configuration features for Hytale servers.",
+            "Implemented a subdomain management system in beta for a small number of servers.",
+            "New API endpoints for server management automation.",
           ],
         },
         {
@@ -53,10 +52,8 @@ export const changelogsConfig = {
           icon: "TrendingUp",
           color: "green",
           items: [
-            "Reduced server startup time by 40% across all regions",
-            "Enhanced file manager with drag-and-drop upload support",
-            "Improved backup compression reducing storage costs by 30%",
-            "Updated control panel UI with better mobile responsiveness",
+            "Improved the panel UI for a better user experience.",
+            "Backup creation speeds have been increased.",
           ],
         },
         {
@@ -64,157 +61,19 @@ export const changelogsConfig = {
           icon: "Wrench",
           color: "orange",
           items: [
-            "Fixed issue where scheduled tasks wouldn't execute during high load",
-            "Resolved FTP connection timeouts in EU regions",
-            "Fixed console output display lag for rapidly updating logs",
-          ],
-        },
-      ],
-    },
-    {
-      version: "2.3.0",
-      date: "December 20, 2025",
-      type: "minor",
-      changes: [
-        {
-          category: "New Features",
-          icon: "Sparkles", 
-          color: "blue",
-          items: [
-            "Added support for Palworld dedicated servers",
-            "Introduced server cloning feature for easy testing",
-            "New API endpoints for server management automation",
+            "No bug fixes in this changelog.",
           ],
         },
         {
-          category: "Improvements",
-          icon: "TrendingUp",
-          color: "green",
-          items: [
-            "Upgraded network infrastructure in Asia-Pacific region",
-            "Enhanced database performance for faster queries",
-            "Improved notification system with Discord webhooks",
-          ],
-        },
-        {
-          category: "Bug Fixes",
-          icon: "Wrench",
-          color: "orange",
-          items: [
-            "Fixed billing calculation error for prorated upgrades",
-            "Resolved issue with automatic backups not triggering at scheduled times",
-          ],
-        },
-      ],
-    },
-    {
-      version: "2.2.0",
-      date: "November 10, 2025",
-      type: "minor",
-      changes: [
-        {
-          category: "New Features",
-          icon: "Sparkles", 
-          color: "blue",
-          items: [
-            "Launched instant server migration between regions",
-            "Added support for custom startup parameters",
-            "New team collaboration features with role-based permissions",
-          ],
-        },
-        {
-          category: "Improvements",
-          icon: "TrendingUp",
-          color: "green",
-          items: [
-            "Optimized plugin management for Minecraft servers",
-            "Enhanced security with two-factor authentication",
-            "Improved server list filtering and search",
-          ],
-        },
-        {
-          category: "Bug Fixes",
-          icon: "Wrench",
-          color: "orange",
-          items: [
-            "Fixed rare crash during server restarts",
-            "Resolved UI glitches in dark mode",
-          ],
-        },
-      ],
-    },
-    {
-      version: "2.1.0",
-      date: "October 5, 2025",
-      type: "minor",
-      changes: [
-        {
-          category: "New Features",
-          icon: "Sparkles", 
-          color: "blue",
-          items: [
-            "Added dedicated Rust server hosting",
-            "New scheduler for automated server restarts and backups",
-            "Integrated server performance recommendations",
-          ],
-        },
-        {
-          category: "Improvements",
-          icon: "TrendingUp",
-          color: "green",
-          items: [
-            "Reduced latency in US-West region by 15%",
-            "Enhanced crash detection and automatic recovery",
-            "Improved customer support ticket system",
-          ],
-        },
-        {
-          category: "Bug Fixes",
-          icon: "Wrench",
-          color: "orange",
-          items: [
-            "Fixed memory leak in server monitoring service",
-            "Resolved intermittent connection issues during peak hours",
-          ],
-        },
-      ],
-    },
-    {
-      version: "2.0.0",
-      date: "September 1, 2025",
-      type: "major",
-      changes: [
-        {
-          category: "New Features",
-          icon: "Sparkles", 
-          color: "blue",
-          items: [
-            "Complete control panel redesign with modern UI/UX",
-            "Launched new pricing tiers with better value",
-            "Added support for 5 new game types",
-            "Introduced referral program and rewards system",
-          ],
-        },
-        {
-          category: "Improvements",
-          icon: "TrendingUp",
-          color: "green",
-          items: [
-            "Migrated to new infrastructure with 50% better performance",
-            "Enhanced security measures and compliance certifications",
-            "Improved onboarding experience for new users",
-          ],
-        },
-        {
-          category: "Breaking Changes",
+          category: "Discontinuations",
           icon: "AlertTriangle",
           color: "red",
           items: [
-            "Legacy API v1 deprecated - migrate to API v2 by December 2025",
-            "Old control panel will be sunset on October 1, 2025",
+            "No discontinuations in this changelog.",
           ],
         },
       ],
     },
+
   ],
 };

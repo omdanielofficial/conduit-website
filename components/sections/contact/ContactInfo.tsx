@@ -1,8 +1,8 @@
 "use client";
 
-import { Mail, Phone } from "lucide-react";
+import { Mail } from "lucide-react";
 import { contactConfig } from "@/config/pages/contact";
-import { brandingConfig, socialLinks } from "@/config/branding.exports";
+import { socialLinks } from "@/config/branding.exports";
 import { SocialIcon } from "@/components/ui/SocialIcon";
 
 export default function ContactInfo() {
