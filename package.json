@@ -1,6 +1,6 @@
 {
-  "name": "latch",
-  "version": "1.0.1",
+  "name": "conduit",
+  "version": "1.0",
   "private": true,
   "license": "570201",
   "scripts": {

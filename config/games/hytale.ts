@@ -233,25 +233,25 @@ export const hytaleConfig: GameConfig = {
   ],
   faqs: [
     {
-      question: "When will Hytale be released?",
-      answer: "Hytale's official release date hasn't been announced yet. By pre-ordering now, you lock in exclusive pricing and will be ready the moment the game launches."
+      question: "Can you help me if I get stuck?",
+      answer: "Our support team is available around the clock to assist you with whatever you may be struggling with on your Hytale server, whether it's installing a new mod that just won't work or if your server is crashing. You can rest easy knowing that no matter the time or day, we'll be here to help!"
     },
     {
-      question: "Do I pay now or when Hytale launches?",
-      answer: "You only pay when Hytale officially releases. Pre-ordering simply reserves your spot and locks in your early bird pricing."
+      question: "Can I upgrade my plan later?",
+      answer: "Absolutely! You can upgrade or downgrade your game server plan at any time through your client account. We understand that circumstances change, and sometimes you might need a little bit more or a little bit less. Alternatively, you can also reach out to our support team to create a custom plan for any of our game servers to fit your needs."
     },
     {
-      question: "Can I cancel my pre-order?",
-      answer: "Absolutely! You can cancel your pre-order at any time before Hytale launches with no penalty or fees."
+      question: "Do you support mods and plugins?",
+      answer: "Of course we do! All of our Hytale hosting plans have fully-functioning mod, modpack and plugin support, allowing you to craft the Hytale server of your dreams."
     },
     {
-      question: "Is the price really locked for life?",
-      answer: "Yes! Your early bird pricing is guaranteed for life. Even if we raise prices in the future, your rate stays the same as long as you remain a customer."
+      question: "How long does setup take?",
+      answer: "As soon as you purchase a server with us, you will receive an email with your login information to access your control panel. Just login, install a server version, and connect to your server!"
     },
     {
-      question: "Will I have access to beta servers?",
-      answer: "If Hytale releases beta servers, pre-order customers will receive priority access to test and configure their servers before the official launch."
+      question: "Will my server be online 24/7?",
+      answer: "Yes, our Hytale servers run day and night, without going offline. Our Hytale servers are designed to operate 24/7 with maximum performance and reliability, ensuring a smooth gaming experience."
     },
   ],
-  note: "Hytale is currently in early access after releasing in January 2026.",
+  note: "Hytale is currently in early access - bugs and errors are common!",
 };

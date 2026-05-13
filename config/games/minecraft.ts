@@ -326,7 +326,7 @@ export const minecraftConfig: GameConfig = {
   faqs: [
     {
       question: "Can you help me if I get stuck?",
-      answer: "Our support team is available around the clock to assist you with whatever you may be struggling with on your Minecraft Server, whether it's installing a new mod that just won't work or if your server is crashing. You can rest easy knowing that no matter the time or day, we'll be here to help!"
+      answer: "Our support team is available around the clock to assist you with whatever you may be struggling with on your Minecraft server, whether it's installing a new mod that just won't work or if your server is crashing. You can rest easy knowing that no matter the time or day, we'll be here to help!"
     },
     {
       question: "Can I upgrade my plan later?",

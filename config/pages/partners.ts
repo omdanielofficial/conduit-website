@@ -149,12 +149,5 @@ export const partnersConfig = {
         youtube: "https://www.youtube.com/@Pqtrick",
       },
     },
-    {
-      name: "StellarNet",
-      description: "Game Server",
-      avatar: "https://cdn.intranex.org/avatars/conduit-partners/stellarnet.jpg",
-      socials: {
-      },
-    },
   ],
 };
