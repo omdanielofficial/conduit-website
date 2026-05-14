@@ -114,7 +114,7 @@ export const minecraftConfig: GameConfig = {
       
       features: [
         "Unlimited Player Slots",
-        "3 Offsite Backups",
+        "3 Backup Slots",
         "3 MySQL Databases",
         "DDoS Protection",
         "Java & Bedrock Editions",
@@ -166,7 +166,7 @@ export const minecraftConfig: GameConfig = {
       
       features: [
         "Unlimited Player Slots",
-        "3 Offsite Backups",
+        "3 Backup Slots",
         "3 MySQL Databases",
         "DDoS Protection",
         "Java & Bedrock Editions",
@@ -215,7 +215,7 @@ export const minecraftConfig: GameConfig = {
       
       features: [
         "Unlimited Player Slots",
-        "5 Offsite Backups",
+        "5 Backup Slots",
         "5 MySQL Databases",
         "DDoS Protection",
         "Java & Bedrock Editions",
@@ -265,7 +265,7 @@ export const minecraftConfig: GameConfig = {
       
       features: [
         "Unlimited Player Slots",
-        "5 Offsite Backups",
+        "5 Backup Slots",
         "5 MySQL Databases",
         "DDoS Protection",
         "Java & Bedrock Editions",
@@ -306,8 +306,8 @@ export const minecraftConfig: GameConfig = {
     },
     {
       icon: "Database",
-      title: "Offsite Backups",
-      description: "Secure offsite backups with one-click restore. Never lose your builds or player data again.",
+      title: "Backup Slots",
+      description: "Secure Backup Slots with one-click restore. Never lose your builds or player data again.",
       color: "purple" as const
     },
     {
