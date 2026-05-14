@@ -95,6 +95,7 @@ export const hytaleConfig: GameConfig = {
       features: [
         "Unlimited Player Slots",
         "3 Backup Slots",
+        "3 MySQL Databases",
         "DDoS Protection",
       ],
       
@@ -145,6 +146,7 @@ export const hytaleConfig: GameConfig = {
       features: [
         "Unlimited Player Slots",
         "5 Backup Slots",
+        "5 MySQL Databases",
         "DDoS Protection",
       ],
       
@@ -194,6 +196,7 @@ export const hytaleConfig: GameConfig = {
       features: [
         "Unlimited Player Slots",
         "5 Backup Slots",
+        "5 MySQL Databases", 
         "DDoS Protection",
       ],
       
