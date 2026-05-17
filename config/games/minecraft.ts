@@ -122,14 +122,14 @@ export const minecraftConfig: GameConfig = {
       
       purchaseUrls: {
         "nyc": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=801",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=802",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=803",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/iron",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/iron&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/iron&billingcycle=annually",
         },
         "fra": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=809",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=810",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=811",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/iron",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/iron&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/iron&billingcycle=annually",
         },
       },
     },
@@ -174,14 +174,14 @@ export const minecraftConfig: GameConfig = {
       
       purchaseUrls: {
         "nyc": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=901",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=902",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=903",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/gold",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/gold&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/gold&billingcycle=annually",
         },
         "fra": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=909",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=910",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=911",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/gold",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/gold&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/gold&billingcycle=annually",
         },
       },
     },
@@ -223,14 +223,14 @@ export const minecraftConfig: GameConfig = {
       
       purchaseUrls: {
         "nyc": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=1001",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=1002",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=1003",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/diamond",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/diamond&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/diamond&billingcycle=annually",
         },
         "fra": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=1009",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=1010",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=1011",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/diamond",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/diamond&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/diamond&billingcycle=annually",
         },
       },
     },
@@ -273,14 +273,14 @@ export const minecraftConfig: GameConfig = {
       
       purchaseUrls: {
         "nyc": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=1101",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=1102",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=1103",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/netherite",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/netherite&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/netherite&billingcycle=annually",
         },
         "fra": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=1109",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=1110",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=1111",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/netherite",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/netherite&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/minecraft-hosting/netherite&billingcycle=annually",
         },
       },
     },

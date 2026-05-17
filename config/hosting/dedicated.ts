@@ -72,7 +72,7 @@ export const dedicatedConfig = {
         monthly: 100,
         setup: 0
       },
-      orderUrl: "#",
+      orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-64gb",
       features: [
         "Located in New York City, US",
         "DDoS Protection",
@@ -94,7 +94,7 @@ export const dedicatedConfig = {
         monthly: 130,
         setup: 0
       },
-      orderUrl: "#",
+      orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-128gb",
       features: [
         "Located in New York City, US",
         "DDoS Protection",

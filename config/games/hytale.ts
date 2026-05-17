@@ -102,14 +102,14 @@ export const hytaleConfig: GameConfig = {
       // UNIQUE PURCHASE URLs - Each region + period combo has its own URL!
       purchaseUrls: {
         "nyc": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=801",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=802",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=803",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/tessa",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/tessa&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/tessa&billingcycle=annually",
         },
         "fra": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=809",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=810",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=811",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/tessa",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/tessa&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/tessa&billingcycle=annually",
         },
       },
     },
@@ -152,14 +152,14 @@ export const hytaleConfig: GameConfig = {
       
       purchaseUrls: {
         "nyc": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=801",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=802",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=803",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/kyros",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/kyros&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/kyros&billingcycle=annually",
         },
         "fra": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=809",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=810",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=811",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/kyros",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/kyros&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/kyros&billingcycle=annually",
         },
       },
     },
@@ -202,14 +202,14 @@ export const hytaleConfig: GameConfig = {
       
       purchaseUrls: {
         "nyc": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=801",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=802",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=803",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/varyn",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/varyn&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/varyn&billingcycle=annually",
         },
         "fra": {
-          monthly: "https://billing.latch.gg/cart.php?a=add&pid=809",
-          quarterly: "https://billing.latch.gg/cart.php?a=add&pid=810",
-          annual: "https://billing.latch.gg/cart.php?a=add&pid=811",
+          monthly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/varyn",
+          quarterly: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/varyn&billingcycle=quarterly",
+          annual: "https://billing.conduithost.com/index.php?rp=/store/hytale-hosting/varyn&billingcycle=annually",
         },
       },
     },
