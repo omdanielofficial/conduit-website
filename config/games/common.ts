@@ -33,7 +33,7 @@ export const gamesCommonConfig = {
     },
     {
       icon: "Globe",
-      title: "Custom Domains",
+      title: "Free Subdomains",
       color: "blue-400"
     },
     {
