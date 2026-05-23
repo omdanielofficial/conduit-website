@@ -33,7 +33,7 @@ export const changelogsConfig = {
   // Colors: blue, green, orange, purple, red, cyan
   versions: [
     {
-      version: "Game Panel v1.0 Release",
+      version: "Control Panel v1.0 Release",
       date: "15th May 2026",
       type: "major",
       changes: [
