@@ -28,8 +28,11 @@ export const jobsConfig = {
     title: "Our Team",
     subtitle: "Meet the people who help to make Conduit so good",
     members: [
-      { name: "Daniel M.", role: "Managing Director", avatar: "https://cdn.intranex.org/avatars/conduit-team/daniel-m.webp", bio: "Daniel leads strategic direction and overall vision, shaping both operational efficiency and long-term growth. With more than half a decade of experience in server hosting, he brings a deep understanding of leadership and client relations." },
-      { name: "Rahul B.", role: "Head of Operations", avatar: "https://cdn.intranex.org/avatars/conduit-team/rahul-b.webp ", bio: "Rahul oversees all day-to-day operations, ensuring every system and service runs at peak performance. With a background in hosting and client services, he bridges the gap between technology, support, and customers." },
+      { name: "Daniel M.", role: "Managing Director", avatar: "https://cdn.intranex.org/avatars/team/daniel-m.webp", bio: "Daniel leads strategic direction and overall vision, shaping both operational efficiency and long-term growth. With more than half a decade of experience in server hosting, he brings a deep understanding of leadership and client relations." },
+      { name: "Rahul B.", role: "Head of Operations", avatar: "https://cdn.intranex.org/avatars/team/rahul-b.webp ", bio: "Rahul oversees all day-to-day operations, ensuring every system and service runs at peak performance. With a background in hosting and client services, he bridges the gap between technology, support, and customers." },
+      { name: "Ahmed W.", role: "Head of Commercial", avatar: "https://cdn.intranex.org/avatars/team/ahmed-w.webp ", bio: "Ahmed leads marketing and sales, driving growth across the company's commercial efforts. His experience in tech-sector marketing and strategic business development helps strengthen brand awareness globally." },
+      { name: "Robert A.", role: "Software Engineer", avatar: "https://cdn.intranex.org/avatars/team/robert-a.png ", bio: "" },
+      { name: "Josean A.", role: "Support Agent", avatar: "https://cdn.intranex.org/avatars/team/josean-a.webp ", bio: "" },
     ],
   },
   

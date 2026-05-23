@@ -133,7 +133,7 @@ export default function JobsOpenings() {
                     {/* Apply button */}
                     <div className="pt-4">
                       <a
-                        href={`https://forms.gle/tzncMVE6aW9BAwvw8`}
+                        href={`mailto:jobs@intranex.org`}
                         className="inline-flex items-center justify-center gap-2 h-10 px-6 rounded-lg bg-brand text-brand-text hover:bg-brand/90 transition-colors text-sm font-semibold cursor-pointer"
                       >
                         Start Application

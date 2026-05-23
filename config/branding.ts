@@ -24,7 +24,7 @@ export const siteConfig = {
   // Email addresses (used in footer, jobs, and partners pages)
   emails: {
     contact: "contact@conduithost.com",      // Footer contact email
-    careers: "jobs@conduithost.com",      // Jobs page email
+    careers: "jobs@intranex.org",      // Jobs page email
     partners: "contact@conduithost.com",    // Partners page email
   },
 };
@@ -58,7 +58,7 @@ export const socialLinks = [
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/company/conduithosting",
+    url: "https://linkedin.com/showcase/conduit-host",
     icon: "linkedin",
   },
   // Add more platforms as needed:
