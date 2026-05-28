@@ -26,8 +26,8 @@ export const contactConfig = {
     address: {
       line1: "82A James Carter Road",
       line2: "Mildenhall",
-      city: "United Kingdom",
-      state: "IP28 7DE",
+      city: "IP28 7DE",
+      state: "United Kingdom",
       zip: "",
     },
   },
