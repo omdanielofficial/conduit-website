@@ -5,7 +5,7 @@
 
 export const saleBannerConfig = {
   // When the sale ends (format: YYYY-MM-DD HH:mm:ss in UTC timezone)
-  saleEndDate: "2026-06-01 00:00:00",
+  saleEndDate: "2026-07-01 00:00:00",
   
   // ===================
   // OFFER TEXT
