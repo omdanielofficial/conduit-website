@@ -101,7 +101,7 @@ export default function PrivacyPolicy() {
                       </h3>
                       <p className="text-xs text-white/60 leading-relaxed">
                         By creating an account and using Conduit's services, you acknowledge that you have read, 
-                        understood, and agree to be bound by these Terms of Service.
+                        understood, and agree to be bound by these terms.
                       </p>
                     </div>
                   </div>
@@ -114,10 +114,10 @@ export default function PrivacyPolicy() {
                     <p className="text-xs text-white/50">We strive to respond to all legal enquiries within five business days.</p>
                   </div>
                   <Link
-                    href="/contact"
+                    href="mailto:legal@intranex.org"
                     className="inline-flex items-center gap-2 px-4 py-2 bg-brand hover:bg-brand/90 rounded-lg transition-all text-xs font-medium text-brand-text whitespace-nowrap"
                   >
-                    Contact Privacy Team
+                    Email Us
                     <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                     </svg>

@@ -101,7 +101,7 @@ export default function TermsOfService() {
                       </h3>
                       <p className="text-xs text-white/60 leading-relaxed">
                         By creating an account and using Conduit's services, you acknowledge that you have read, 
-                        understood, and agree to be bound by these Terms of Service.
+                        understood, and agree to be bound by these terms.
                       </p>
                     </div>
                   </div>
