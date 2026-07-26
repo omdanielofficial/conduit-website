@@ -32,6 +32,8 @@ export const changelogsConfig = {
   // Icons: Sparkles, TrendingUp, Wrench, Shield, Zap (find more at lucide.dev/icons)
   // Colors: blue, green, orange, purple, red, cyan
   versions: [
+
+
     {
       version: "Control Panel v1.0 Release",
       date: "15th May 2026",
