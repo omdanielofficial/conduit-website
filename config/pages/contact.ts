@@ -46,7 +46,7 @@ export const contactConfig = {
       icon: "MessageSquare",
       available: "Available 24/7",
       cta: "Create Ticket",
-      href: "https://billing.conduithost.com/submitticket.php",
+      href: "https://billing.conduithost.com/submitticket.php?step=2&deptid=1",
     },
     {
       title: "Email Us",
