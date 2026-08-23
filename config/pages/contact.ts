@@ -42,11 +42,11 @@ export const contactConfig = {
   supportOptions: [
     {
       title: "Support Tickets",
-      description: "Create a ticket through our Discord server for general enquiries, technical support, or billing assistance.",
+      description: "Create a ticket through our Billing Portal for general enquiries, technical support, or billing assistance.",
       icon: "MessageSquare",
       available: "Available 24/7",
-      cta: "Join Discord",
-      href: "https://discord.gg/conduit",
+      cta: "Create Ticket",
+      href: "https://billing.conduithost.com/submitticket.php",
     },
     {
       title: "Email Us",
@@ -69,7 +69,7 @@ export const contactConfig = {
       description: "Visit our status website to see if your service is experiencing downtime.",
       icon: "Briefcase",
       available: "",
-      cta: "Contact Sales",
+      cta: "View Status",
       href: "https://status.conduithost.com",
     },
   ],
