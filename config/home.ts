@@ -106,6 +106,16 @@ export const homeConfig = {
         iconBorder: "border-purple-500/20",
         startingPrice: "130",
       },
+      {
+        icon: "Server",
+        title: "Ryzen 9 9950X - 256GB",
+        description: "Built for the most demanding workloads, with the capacity to support large-scale deployments.",
+        href: "/dedicated",
+        iconColor: "text-red-400",
+        iconBg: "bg-purple-500/5",
+        iconBorder: "border-purple-500/20",
+        startingPrice: "220",
+      },
     ],
   },
 };

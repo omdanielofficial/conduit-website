@@ -50,7 +50,7 @@ export const dedicatedConfig = {
   features: [
     { icon: "Zap", title: "Excellent Performance", description: "We only use the latest Ryzen 9 9950X processors for unparalleled server performance.", color: "yellow" as const },
     { icon: "Lock", title: "Full Root Access", description: "Complete control over your server. Install any software, configure any service, customise everything.", color: "green" as const },
-    { icon: "Shield", title: "DDoS Protection", description: "Enterprise-grade DDoS mitigation with automatic detection and multi-layered filtering.", color: "blue" as const },
+    { icon: "Shield", title: "DDoS Protection", description: "Multi-terabit DDoS mitigation with automatic detection and multi-layered filtering.", color: "blue" as const },
     { icon: "HardDrive", title: "NVMe Storage", description: "Ultra-fast NVMe SSD storage delivers ultimate speed compared to traditional SATA SSDs.", color: "purple" as const },
     { icon: "Globe", title: "Global Network", description: "Premium bandwidth with multiple 10 Gbps uplinks for low-latency global connectivity.", color: "cyan" as const },
     { icon: "Settings", title: "Isolated Resources", description: "All resources are isolated within a virtualised environment to ensure stability and scalability.", color: "orange" as const },
@@ -74,8 +74,8 @@ export const dedicatedConfig = {
       },
       orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-64gb",
       features: [
-        "Located in New York City, US",
-        "DDoS Protection",
+        "Location: New York, United States",
+        "GSL/GCore DDoS Protection",
         "Linux & Windows",
         "Self-Managed Service",
         "99.95% Uptime",
@@ -96,14 +96,36 @@ export const dedicatedConfig = {
       },
       orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-128gb",
       features: [
-        "Located in New York City, US",
-        "DDoS Protection",
+        "Location: New York, United States",
+        "GSL/GCore DDoS Protection",
         "Linux & Windows",
         "Self-Managed Service",
         "99.95% Uptime",
         "Built for Game Hosting"
       ],
       popular: true
+    },
+    {
+      name: "Ryzen 9 9950X - 256GB",
+      processor: "AMD Ryzen 9 9950X",
+      cores: "4.3 GHz - 5.7 GHz",
+      ram: "256GB DDR5 ECC",
+      storage: "4TB NVMe SSD",
+      bandwidth: "Unmetered @ 10 Gbps",
+      price: {
+        monthly: 220,
+        setup: 0
+      },
+      orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-256gb",
+      features: [
+        "Location: New York, United States",
+        "GSL/GCore DDoS Protection",
+        "Linux & Windows",
+        "Self-Managed Service",
+        "99.95% Uptime",
+        "Built for Game Hosting"
+      ],
+      popular: false
     }
   ],
   comparison: {
