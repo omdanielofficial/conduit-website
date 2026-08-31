@@ -33,6 +33,48 @@ export const changelogsConfig = {
   // Colors: blue, green, orange, purple, red, cyan
   versions: [
 
+    {
+      version: "Control Panel v1.1 Release",
+      date: "31st August 2026",
+      type: "major",
+      changes: [
+        {
+          category: "New Features",
+          icon: "Sparkles", 
+          color: "blue",
+          items: [
+            "Added a new server splitter feature so multiple servers can be created from one plan.",
+            "Added a new game switcher feature allowing eligible users to switch games.",
+            "Introduced a new modpack manager tool to replace the existing one.",
+          ],
+        },
+        {
+          category: "Improvements",
+          icon: "TrendingUp",
+          color: "green",
+          items: [
+            "The announcements system has been overhauled to convey information more easily.",
+            "Removed the total storage limit for backups.",
+          ],
+        },
+        {
+          category: "Bug Fixes",
+          icon: "Wrench",
+          color: "orange",
+          items: [
+            "Servers are now allocated the correct number of backup slots.",
+          ],
+        },
+        {
+          category: "Discontinuations",
+          icon: "AlertTriangle",
+          color: "red",
+          items: [
+            "No discontinuations in this changelog.",
+          ],
+        },
+      ],
+    },
 
     {
       version: "Control Panel v1.0 Release",
