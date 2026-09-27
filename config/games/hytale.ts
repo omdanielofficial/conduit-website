@@ -20,7 +20,7 @@ export const hytaleConfig: GameConfig = {
   regions: [
     {
       id: "nyc",
-      name: "New York City",
+      name: "Ashburn",
       location: "United States",
       flag: "https://hatscripts.github.io/circle-flags/flags/us.svg",
     },

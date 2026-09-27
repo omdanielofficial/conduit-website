@@ -74,7 +74,7 @@ export const dedicatedConfig = {
       },
       orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-64gb",
       features: [
-        "Location: New York, United States",
+        "Location: Ashburn (VA), United States",
         "GSL/GCore DDoS Protection",
         "Linux & Windows",
         "Self-Managed Service",
@@ -96,7 +96,7 @@ export const dedicatedConfig = {
       },
       orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-128gb",
       features: [
-        "Location: New York, United States",
+        "Location: Ashburn (VA), United States",
         "GSL/GCore DDoS Protection",
         "Linux & Windows",
         "Self-Managed Service",
@@ -118,7 +118,7 @@ export const dedicatedConfig = {
       },
       orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-256gb",
       features: [
-        "Location: New York, United States",
+        "Location: Ashburn (VA), United States",
         "GSL/GCore DDoS Protection",
         "Linux & Windows",
         "Self-Managed Service",

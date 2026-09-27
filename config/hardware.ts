@@ -46,7 +46,7 @@ export const hardwareConfig = {
   // ===================
   network: {
     title: "Global Network",
-    description: "Choose the best region for you and your players. Our flagship location in New York City provides excellent connectivity across North & South America and Europe. We also have a new location launching soon in Germany.",
+    description: "Choose the best region for you and your players. Our flagship location in Ashburn, United States provides excellent connectivity across North & South America and Europe. We also have a new location launching soon in Frankfurt, Germany.",
     regionsCount: 2,
     regionsText: "Regions Active",
     color: "cyan",
