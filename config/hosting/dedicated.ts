@@ -69,7 +69,7 @@ export const dedicatedConfig = {
       storage: "1TB NVMe SSD",
       bandwidth: "Unmetered @ 10 Gbps",
       price: {
-        monthly: 100,
+        monthly: 110,
         setup: 0
       },
       orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-64gb",
@@ -91,7 +91,7 @@ export const dedicatedConfig = {
       storage: "2TB NVMe SSD",
       bandwidth: "Unmetered @ 10 Gbps",
       price: {
-        monthly: 130,
+        monthly: 140,
         setup: 0
       },
       orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-128gb",
@@ -113,7 +113,7 @@ export const dedicatedConfig = {
       storage: "4TB NVMe SSD",
       bandwidth: "Unmetered @ 10 Gbps",
       price: {
-        monthly: 220,
+        monthly: 230,
         setup: 0
       },
       orderUrl: "https://billing.conduithost.com/index.php?rp=/store/dedicated-servers/ryzen-9-9950x-256gb",
